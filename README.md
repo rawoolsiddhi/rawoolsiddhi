@@ -21,6 +21,7 @@ https://github.com/user-attachments/assets/92d5e230-4a8b-4244-b6f3-d755ab97fe21
 
 ## 2. 💳 Fraud Transaction Detection
    🔗 [View Fraud Transaction Detection on GitHub](https://github.com/rawoolsiddhi/fraud_transaction_detection)
+
 An end-to-end machine learning project to detect fraudulent financial transactions using a stacking ensemble model (Random Forest + XGBoost).
 It includes preprocessing, modeling, evaluation, prediction, and a user-friendly Streamlit web app.
 🔗 View on GitHub
