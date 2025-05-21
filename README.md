@@ -14,7 +14,6 @@ It features a minimal Streamlit interface for uploading, searching, and visualiz
 
 The methods and approach implemented in this project are detailed in a research paper authored by us and published in IEEE.
 [Research Paper (IEEE)](https://ieeexplore.ieee.org/abstract/document/10940682)
-## the Demo
 
 https://github.com/user-attachments/assets/92d5e230-4a8b-4244-b6f3-d755ab97fe21
 
