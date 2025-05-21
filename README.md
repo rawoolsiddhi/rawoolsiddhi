@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi, Hi, I’m Siddhi.
 
-<!--
-**rawoolsiddhi/rawoolsiddhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m interested in building practical data and machine learning solutions rooted in research.
+Feel free to explore my repositories and get in touch.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Project
+
+##📄 Semantic Document Retrieval using Single-Link Clustering and Vector Space Models
+    🔗 [View on GitHub](https://github.com/rawoolsiddhi/Efficient-Doc-Retrieval-Storage)
+
+ A document retrieval system that uses a hybrid model combining TF-IDF-based Vector Space Modeling (VSM) with Single-Link Hierarchical Clustering to semantically group and rank documents based on query similarity.
+It features a minimal Streamlit interface for uploading, searching, and visualizing clustered results, with MongoDB used for document metadata management.
+
+The methods and approach implemented in this project are detailed in a research paper authored by us and published in IEEE.
+[Research Paper (IEEE)](https://ieeexplore.ieee.org/abstract/document/10940682)
+## the Demo
+
+https://github.com/user-attachments/assets/92d5e230-4a8b-4244-b6f3-d755ab97fe21
+
+
+## 2. 💳 Fraud Transaction Detection
+   🔗 [View Fraud Transaction Detection on GitHub](https://github.com/rawoolsiddhi/fraud_transaction_detection)
+An end-to-end machine learning project to detect fraudulent financial transactions using a stacking ensemble model (Random Forest + XGBoost).
+It includes preprocessing, modeling, evaluation, prediction, and a user-friendly Streamlit web app.
+🔗 View on GitHub
+
+## 3.🍽️ Zomato Data Analysis and Dashboard
+   🔗 [View Zomato Data Analysis on GitHub](https://github.com/rawoolsiddhi/Zomato-Data-Analysis)
+
+An exploratory data analysis (EDA) project on restaurant data from Zomato in Karnataka, India.
+It includes data cleaning, feature engineering, and an interactive Power BI dashboard to uncover insights into restaurant trends, ratings, and costs.
+
+![image](https://github.com/user-attachments/assets/1703f95a-0ded-40bc-ac40-ea077ee37d99)
+
