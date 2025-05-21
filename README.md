@@ -1,7 +1,7 @@
 Hi, Hi, I’m Siddhi.
 
-I’m interested in building practical data and machine learning solutions rooted in research.
-Feel free to explore my repositories and get in touch.
+I build practical data and machine learning solutions rooted in research.
+Explore my projects below, and feel free to connect!
 
 
 ## Project
