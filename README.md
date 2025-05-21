@@ -6,8 +6,8 @@ Explore my projects below, and feel free to connect!
 
 ## Project
 
-## 1. 📄 Semantic Document Retrieval using Single-Link Clustering and Vector Space Models
-      ### 🔗 [View on GitHub](https://github.com/rawoolsiddhi/Efficient-Doc-Retrieval-Storage)
+## 1. 📄 Semantic Document Retrieval using Single-Link Clustering and Vector Space Models.
+  ### 🔗 [View on GitHub](https://github.com/rawoolsiddhi/Efficient-Doc-Retrieval-Storage)
       
  A document retrieval system that uses a hybrid model combining TF-IDF-based Vector Space Modeling (VSM) with Single-Link Hierarchical Clustering to semantically group and rank documents based on query similarity.
 It features a minimal Streamlit interface for uploading, searching, and visualizing clustered results, with MongoDB used for document metadata management.
