@@ -3,7 +3,6 @@ Hi, I’m Siddhi.
 I build practical data and machine learning solutions rooted in research.
 Explore my projects below, and feel free to connect!
 
-
 ## Project
 
 ## 📄 Semantic Document Retrieval. 
