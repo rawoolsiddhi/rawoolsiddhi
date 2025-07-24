@@ -15,11 +15,11 @@ Explore my projects below, and feel free to connect!
 
 https://github.com/user-attachments/assets/92d5e230-4a8b-4244-b6f3-d755ab97fe21
 
-## 3. SentimentFusions
+## 2. SentimentFusions
    ### 🔗 [View on GitHub](https://github.com/rawoolsiddhi/SentimentFusions)
 
   
-![SentimentFusions Demo](https://github.com/user-attachments/assets/ca292b49-72e7-4a9e-a086-edd18bd0b6e4)
+https://github.com/user-attachments/assets/ca292b49-72e7-4a9e-a086-edd18bd0b6e4
 
 **SentimentFusions** is a full-stack product review analyzer that scrapes real-world reviews, processes them using machine learning, and displays a sentiment dashboard with keyword insights and rating trends — all on a single interface.  
 Built for fast, reliable customer opinion mining across any product or category.
