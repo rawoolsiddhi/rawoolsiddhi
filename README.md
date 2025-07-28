@@ -14,12 +14,14 @@ Explore my projects below, and feel free to connect!
 [Research Paper (IEEE)](https://ieeexplore.ieee.org/abstract/document/10940682)
 
  Demo: 
+ 
 https://github.com/user-attachments/assets/92d5e230-4a8b-4244-b6f3-d755ab97fe21
 
 ## 2. SentimentFusions
    ### 🔗 [View on GitHub](https://github.com/rawoolsiddhi/SentimentFusions)
 
    Demo: 
+   
 https://github.com/user-attachments/assets/ca292b49-72e7-4a9e-a086-edd18bd0b6e4
 
 **SentimentFusions** is a full-stack product review analyzer that scrapes real-world reviews, processes them using machine learning, and displays a sentiment dashboard with keyword insights and rating trends — all on a single interface.  
@@ -33,6 +35,7 @@ Built for fast, reliable customer opinion mining across any product or category.
 It includes preprocessing, modeling, evaluation, prediction, and a user-friendly Streamlit web app.
 
  Demo: 
+ 
 https://github.com/user-attachments/assets/d56db13f-9013-4689-af23-11515ae0e37d
 
 
@@ -45,5 +48,6 @@ https://github.com/user-attachments/assets/d56db13f-9013-4689-af23-11515ae0e37d
 It includes data cleaning, feature engineering, and an interactive Power BI dashboard to uncover insights into restaurant trends, ratings, and costs.
 
  Demo: 
+ 
 ![image](https://github.com/user-attachments/assets/1703f95a-0ded-40bc-ac40-ea077ee37d99)
 
