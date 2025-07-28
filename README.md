@@ -27,9 +27,14 @@ Built for fast, reliable customer opinion mining across any product or category.
 
 ## 3. 💳 Fraud Transaction Detection
    ### 🔗 [View on GitHub](https://github.com/rawoolsiddhi/fraud_transaction_detection)
-   
- An end-to-end machine learning project to detect fraudulent financial transactions using a stacking ensemble model (Random Forest + XGBoost).
+
+   An end-to-end machine learning project to detect fraudulent financial transactions using a stacking ensemble model (Random Forest + XGBoost).
 It includes preprocessing, modeling, evaluation, prediction, and a user-friendly Streamlit web app.
+
+
+https://github.com/user-attachments/assets/d56db13f-9013-4689-af23-11515ae0e37d
+
+
 
 
 ## 4.🍽️ Zomato Data Analysis and Dashboard
