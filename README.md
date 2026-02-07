@@ -10,8 +10,9 @@ Explore my projects below, and feel free to connect!
       
  A document retrieval system that uses a hybrid model combining TF-IDF-based Vector Space Modeling (VSM) with Single-Link Hierarchical Clustering to semantically group and rank documents based on query similarity.
   It features a minimal Streamlit interface for uploading, searching, and visualizing clustered results, with MongoDB used for document metadata management.
-  The methods and approach implemented in this project are detailed in a research paper authored by us and published in IEEE.
+  The methods and approach implemented in this project are detailed in a research paper authored by us and published in IEEE and Springer.
 [Research Paper (IEEE)](https://ieeexplore.ieee.org/abstract/document/10940682)
+    .    .
 [Research Paper (Springer)](https://link.springer.com/chapter/10.1007/978-3-032-10940-8_30)
 
  Demo: 
