@@ -1,4 +1,4 @@
-Hi, I’m Siddhi.
+fHi, I’m Siddhi.
 
 I build practical data and machine learning solutions rooted in research.
 Explore my projects below, and feel free to connect!
@@ -12,6 +12,7 @@ Explore my projects below, and feel free to connect!
   It features a minimal Streamlit interface for uploading, searching, and visualizing clustered results, with MongoDB used for document metadata management.
   The methods and approach implemented in this project are detailed in a research paper authored by us and published in IEEE.
 [Research Paper (IEEE)](https://ieeexplore.ieee.org/abstract/document/10940682)
+[Research Paper (Springer)](https://link.springer.com/chapter/10.1007/978-3-032-10940-8_30)
 
  Demo: 
  
